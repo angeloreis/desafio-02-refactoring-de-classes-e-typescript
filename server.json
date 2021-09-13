@@ -1,28 +1,36 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "image": "https://th.bing.com/th/id/OIP.3V2fvdA6O0fSG6qGMyMeZwHaEo?pid=ImgDet&rs=1",
+      "name": "Moda da casa",
+      "price": "16.68",
+      "description": "Patro gosto, comem 2 pessoas!",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "image": "https://th.bing.com/th/id/OIP.HjUpSxhogghVkCmFLbK_AgHaE8",
+      "name": "Moda cabriana",
+      "price": "40.00",
+      "description": "Um prato saboroso para comer e repetir",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 3
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "https://i.pinimg.com/originals/c5/66/25/c5662562d43a2aac5702bfbae5f7c35c.jpg",
+      "name": "Feijoada a moda francesa",
+      "price": "25.80",
+      "description": "Feijoada com maxixe, quiabo, cenoura, charque, calabresa, toucinho, bacon e jambu. Há não esquece que vem com laranja nessa merda!",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://i.pinimg.com/originals/fb/d0/62/fbd0626abab2c2ecc6be7f5cf1e07807.jpg",
+      "name": "Um prato merda",
+      "price": "16.78",
+      "description": "huashuashuashuasuhas",
+      "available": true,
+      "id": 5
     }
   ]
 }
